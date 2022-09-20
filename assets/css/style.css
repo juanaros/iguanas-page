@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Raleway, sans-serif;
+}
+h1 {
+    background-color: #000000;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    padding: 7px 0px;
+    font-weight: 500;
+}
+
+
+header img {
+    width: 100%;
+}
+
+.description {
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 300;
+    padding: 45px 0px;
+    display: flex;
+    width: 100%;
+    justify-content:center;
+    margin-top: -1%;
+}
+
+#row {
+    margin: 2.5%
+}
+.description img {
+    width: 399px;
+    padding-left: 106px;
+}
+
+.description div p{
+    display: flex;
+    padding-bottom: 20px;
+    width: 475px;
+    text-align: left;
+}
+
+
+
+.characteristics {
+    background-color: #1e1a13;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 75px;
+    opacity: 98%;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+    padding: 75px 0 50px 0;
+}
+
+.characteristics div {
+    display:inline-block;
+    font-size: 25px;
+    font-weight: 300;
+    margin: 20px 40px;
+}
+
+i {
+    font-size: 45px;
+    padding: 0 0 16px 0;
+    width: 200px; 
+}
+
+.pictures {
+    text-align: center;
+    padding: 73px;
+    background-color: #000000;
+    opacity: 96%;
+}
+.pictures img {
+    height: 202px;
+    width: 316px;
+    display: inline-flex;
+    margin: 13px;
+}
+
+footer {
+    background-color: #1e1a13;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 300;
+    padding: 39px;
+    opacity: 94%;
+}
